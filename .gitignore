@@ -1,0 +1,13 @@
+*.iml
+/.idea/*
+/.gradle/*
+/build/*
+/gradle/*
+/captures
+/*/release
+gradlew
+gradlew.bat
+#gradle.properties
+local.properties
+/app/tinker-support.gradle
+/*/build
